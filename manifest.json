@@ -1,0 +1,24 @@
+{
+    "name": "Sertifikasi Al-Qur'an SDIT Arkan",
+    "short_name": "Sertifikasi QL",
+    "description": "Sistem Informasi Sertifikasi Al-Qur'an SDIT Arkan Cendekia",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#111827",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "icon.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
